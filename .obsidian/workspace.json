@@ -1,0 +1,234 @@
+{
+  "main": {
+    "id": "158d26dc7ec6ff9e",
+    "type": "split",
+    "children": [
+      {
+        "id": "c89de33650f7e1b3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d82e389951aade6d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CMake/CMake学习笔记.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "CMake学习笔记"
+            }
+          },
+          {
+            "id": "2889c6fd455fe385",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "73dd63e853d56e3b",
+    "type": "split",
+    "children": [
+      {
+        "id": "fab6a04d6c77f23b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "976ab1322c1f91cc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "bd0d10aa07da0c0c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "32966d48990c3c9b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "65ebd1fa15e468c4",
+    "type": "split",
+    "children": [
+      {
+        "id": "829dffcf25e47946",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3bad84bb569fa168",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "README 的反向链接列表"
+            }
+          },
+          {
+            "id": "ef2b44f526f097c4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "笔记.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "笔记 的出链列表"
+            }
+          },
+          {
+            "id": "c5007fa3b749b642",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "fae4e5adee025e6c",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "8dc6ef2e336b8eea",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md",
+                "followCursor": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "README 的大纲"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false,
+      "markdown-importer:打开 Markdown 格式转换器": false
+    }
+  },
+  "active": "2889c6fd455fe385",
+  "lastOpenFiles": [
+    "CMake/CMake学习笔记.md",
+    "README.md",
+    "WSL/WSL介绍及安装.md",
+    "Obisidian/md语法.md",
+    "WSL/photos/Pasted image 20260325201852.png",
+    "WSL/photos/Pasted image 20260325202259.png",
+    "WSL/photos/Pasted image 20260325203417.png",
+    "WSL/photos/Pasted image 20260325210925.png",
+    "WSL/photos/Pasted image 20260326152959.png",
+    "WSL/photos/Pasted image 20260326160614.png",
+    "WSL/photos/Pasted image 20260326152559.png",
+    "WSL/photos/Pasted image 20260326160513.png",
+    "Obisidian/图片/Pasted image 20260325183739.png",
+    "CMake/photos/Pasted image 20260325192240.png",
+    "WSL/photos",
+    "WSL",
+    "CMake/photos",
+    "CMake",
+    "第一次使用树莓派：从烧录系统到换源/RaspberryPi入门：从烧录系统到换源.md",
+    "Obisidian/图片/md语法.md",
+    "Obisidian/图片",
+    "未命名.canvas",
+    "2026-03-25.md",
+    "未命名.base",
+    "Obisidian",
+    "Obisidian.md",
+    "Obisidian 1.md",
+    "未命名 1",
+    "笔记.md"
+  ]
+}
