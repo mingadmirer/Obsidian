@@ -49,3 +49,22 @@ https://public.roboflow.com/object-detection
 
 https://universe.roboflow.com/
 
+## 训练
+文件结构
+- images: 存放图片
+  - train：训练集图片
+  - val: 验证集图片
+- labels：存放标签
+  - train: 训练集标签文件，一一对应
+  - val: 验证集标签文件，一一对应
+
+整体放在datasets文件里
+
+- 编写配置文件(.yaml文件)
+-  例:
+![[Pasted image 20260405212502.png]]
+
+```
+yolo task=detect mode=train model=./yolov8n.pt data=yoloc-bvn.yaml epochs=300 workers=1 batch=8
+```
+model = '预训练权重' ， data，训练的文件，epoch = 多少轮 ，batch,每次训练多少图片
