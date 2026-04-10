@@ -62,3 +62,4 @@ Hello world
 - **ubuntu:15:10** 指定要运行的镜像，docker首先从本地主机上查找镜像是否存在，如果不存在，docker就会从Docker Hub上下载公共镜像
 - **/bin/echo "Hello world"** :在启动的容器里执行的命令
 可理解完整释义：Docker 以 ubuntu15.10 镜像创建一个新容器，然后在容器里执行 bin/echo "Hello world"，然后输出结果。
+![[Pasted image 20260410171201.png]]
